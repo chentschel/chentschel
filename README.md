@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I am [Christian Hentschel](https://github.com/chentschel) 👋
+
+I am Christian Hentschel, I am the founder of Trade Stars App, https://tradestars.app
 
 <!--
 **chentschel/chentschel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&margin-w=25&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
